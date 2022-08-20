@@ -125,10 +125,6 @@ p{
 
 /****************************** media query ***************************/
 @media (max-width: 375px) {
-  body{
-    padding: 3.125rem 0.625rem;
-  }
-
   .parent{
     width: 95%;
     border-radius: 1.25rem;
