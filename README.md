@@ -45,7 +45,7 @@ Users should be able to:
 
 
 ### What I learned
-I learned to use JavaScript for DOM manipulation. I learned some new CSS properties like letter spacing which I used in the "submit" button. I also worked on using more standard units like "rem" and "%". In this project, I made use of some inline styles and did the rest in my stylesheet. Basically the frustrating part of this project was determining the exact color of the rating buttons(I had to go through some people's project to get the color, it was different from what was provided in the challange `style-guide.md`). This is my first time using JavaScript/jQuery on my own without my tutor's guidance, so I'm proud of what I did. I also put a default rating in situations whereby the client didn't choose any value.
+I learned to use JavaScript for DOM manipulation. I learned some new CSS properties like letter spacing which I used in the "submit" button. I also worked on using more standard units like "rem" and "%". In this project, I made use of some inline styles and did the rest in my stylesheet. Basically the frustrating part of this project was determining the exact color of the rating buttons(I had to go through some people's project to get the color, it was different from what was provided in the challenge `style-guide.md`). This is my first time using JavaScript/jQuery on my own without my tutor's guidance, so I'm proud of what I did. I also put a default rating in situations whereby the client didn't choose any value.
 
 
 
