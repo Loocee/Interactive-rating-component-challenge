@@ -100,6 +100,10 @@ p{
   top: 1.875rem;
 }
 
+.attribution{
+  position: relative;
+  top: 6rem;
+}
 /************************* thank you state section **************************/
 
 .thank-you-parent{
