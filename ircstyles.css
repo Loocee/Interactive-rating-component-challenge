@@ -121,7 +121,7 @@ p{
 /****************************** media query ***************************/
 @media (max-width: 375px) {
   .parent{
-    width: 95%;
+    width: 100%;
     border-radius: 1.25rem;
   }
 
