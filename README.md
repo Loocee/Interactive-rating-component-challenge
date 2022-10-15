@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click to view solution here](https://www.frontendmentor.io/solutions/interactive-rating-component-using-html-css-bootstrap-and-jquery-yUbMXoPEE4)
+- Live Site URL: [See live site here](https://loocee.github.io/Interactive-rating-component-challenge/)
 
 ## My process
 
